@@ -1,0 +1,51 @@
+[submodule "bitbake"]
+	path = bitbake
+	url = git://git.openembedded.org/bitbake
+[submodule "layers/openembedded-core"]
+	path = layers/openembedded-core
+	url = git://git.openembedded.org/openembedded-core
+[submodule "layers/meta-browser"]
+	path = layers/meta-browser
+	url = https://github.com/OSSystems/meta-browser.git
+[submodule "layers/meta-clang"]
+	path = layers/meta-clang
+	url = https://github.com/kraj/meta-clang.git
+[submodule "layers/meta-jupyter"]
+	path = layers/meta-jupyter
+	url = https://github.com/Xilinx/meta-jupyter.git
+[submodule "layers/meta-openamp"]
+	path = layers/meta-openamp
+	url = https://github.com/Xilinx/meta-openamp.git
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded.git
+[submodule "layers/meta-petalinux"]
+	path = layers/meta-petalinux
+	url = https://github.com/Xilinx/meta-petalinux.git
+[submodule "layers/meta-python2"]
+	path = layers/meta-python2
+	url = https://git.openembedded.org/meta-python2.git
+[submodule "layers/meta-qt5"]
+	path = layers/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "layers/meta-ros"]
+	path = layers/meta-ros
+	url = https://github.com/ros/meta-ros.git
+[submodule "layers/meta-security"]
+	path = layers/meta-security
+	url = https://git.yoctoproject.org/meta-security.git
+[submodule "layers/meta-virtualization"]
+	path = layers/meta-virtualization
+	url = https://github.com/Xilinx/meta-virtualization.git
+[submodule "layers/meta-vitis"]
+	path = layers/meta-vitis
+	url = https://github.com/Xilinx/meta-vitis.git
+[submodule "layers/meta-xilinx"]
+	path = layers/meta-xilinx
+	url = https://github.com/Xilinx/meta-xilinx.git
+[submodule "layers/meta-xilinx-tools"]
+	path = layers/meta-xilinx-tools
+	url = https://github.com/Xilinx/meta-xilinx-tools.git
+[submodule "layers/meta-xilinx-tsn"]
+	path = layers/meta-xilinx-tsn
+	url = https://github.com/Xilinx/meta-xilinx-tsn.git
