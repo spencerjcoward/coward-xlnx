@@ -1,0 +1,11 @@
+.templateconf
+bitbake-cookerdaemon.log
+cache/
+conf/conf-notes.txt
+conf/conf-summary.txt
+conf/templateconf.cfg
+deploy-ti/
+downloads/
+sstate-cache/
+workspace/
+
