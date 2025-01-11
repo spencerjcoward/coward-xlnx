@@ -49,3 +49,6 @@
 [submodule "layers/meta-xilinx-tsn"]
 	path = layers/meta-xilinx-tsn
 	url = https://github.com/Xilinx/meta-xilinx-tsn.git
+[submodule "layers/meta-arm"]
+	path = layers/meta-arm
+	url = https://git.yoctoproject.org/meta-arm.git
