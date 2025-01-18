@@ -4,7 +4,7 @@ cache/
 conf/conf-notes.txt
 conf/conf-summary.txt
 conf/templateconf.cfg
-tmp-glibc/
+tmp-*/
 downloads/
 sstate-cache/
 workspace/
