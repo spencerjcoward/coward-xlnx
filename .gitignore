@@ -4,7 +4,9 @@ cache/
 conf/conf-notes.txt
 conf/conf-summary.txt
 conf/templateconf.cfg
+conf/wr*
 tmp-*/
 downloads/
 sstate-cache/
 workspace/
+README_templates

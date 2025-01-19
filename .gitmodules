@@ -55,3 +55,9 @@
 [submodule "layers/meta-kria"]
 	path = layers/meta-kria
 	url = https://github.com/Xilinx/meta-kria.git
+[submodule "layers/wrlinux"]
+	path = layers/wrlinux
+	url = https://github.com/WindRiverLinux24/wrlinux.git
+[submodule "layers/wr-template"]
+	path = layers/wr-template
+	url = https://github.com/WindRiverLinux24/wr-template.git
