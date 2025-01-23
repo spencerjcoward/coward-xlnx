@@ -16,7 +16,7 @@ This project is a Yocto-based build system for creating custom Linux distributio
    source oe-init-env
    runqemu wrlinux-image-smalls
 ## Custom XSA support
-  in `conf/local.conf` uncomment and file in `COWARD_XSA_PATH` and `COWARD_XSA_SHA256` in order to build with a custom xsa.
+  in `conf/local.conf` uncomment and fill in `COWARD_XSA_PATH` and `COWARD_XSA_SHA256` in order to build with a custom xsa.
 
 ## Directory Structure
 - `.vscode/`: Contains Visual Studio Code settings.
