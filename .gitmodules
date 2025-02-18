@@ -1,9 +1,3 @@
-[submodule "bitbake"]
-	path = bitbake
-	url = git://git.openembedded.org/bitbake
-[submodule "layers/openembedded-core"]
-	path = layers/openembedded-core
-	url = git://git.openembedded.org/openembedded-core
 [submodule "layers/meta-browser"]
 	path = layers/meta-browser
 	url = https://github.com/OSSystems/meta-browser.git
@@ -16,9 +10,6 @@
 [submodule "layers/meta-openamp"]
 	path = layers/meta-openamp
 	url = https://github.com/Xilinx/meta-openamp.git
-[submodule "layers/meta-openembedded"]
-	path = layers/meta-openembedded
-	url = https://git.openembedded.org/meta-openembedded.git
 [submodule "layers/meta-petalinux"]
 	path = layers/meta-petalinux
 	url = https://github.com/Xilinx/meta-petalinux.git
@@ -55,3 +46,18 @@
 [submodule "layers/meta-kria"]
 	path = layers/meta-kria
 	url = https://github.com/Xilinx/meta-kria.git
+[submodule "layers/wrlinux"]
+	path = layers/wrlinux
+	url = https://github.com/WindRiverLinux24/wrlinux.git
+[submodule "layers/wr-template"]
+	path = layers/wr-template
+	url = https://github.com/WindRiverLinux24/wr-template.git
+[submodule "layers/openembedded-core"]
+	path = layers/openembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "bitbake"]
+	path = bitbake
+	url = https://github.com/openembedded/bitbake.git
