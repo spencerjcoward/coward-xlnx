@@ -1,0 +1,1 @@
+include common-root-passwd.inc
